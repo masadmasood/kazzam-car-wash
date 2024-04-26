@@ -1,0 +1,23 @@
+@media (min-width: 62rem) {
+  html {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 48rem) and (max-width: 61.9988rem) {
+  html {
+    font-size: 0.9375rem;
+  }
+}
+
+@media (min-width: 36rem) and (max-width: 47.9988rem) {
+  html {
+    font-size: 0.875rem;
+  }
+}
+
+@media (max-width: 35.9988rem) {
+  html {
+    font-size: 0.875rem;
+  }
+}
